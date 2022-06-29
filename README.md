@@ -1,6 +1,6 @@
 # An_applcation_of_Faster_RCNN
 
-We applied Faser RCNN, the method in the link https://github.com/kbardool/Keras-frcnn
+I have applied Faser RCNN, the method in the link https://github.com/kbardool/Keras-frcnn
 
 You can access the dataset via the following link: https://www.kaggle.com/datasets/draaslan/blood-cell-detection-dataset
 
